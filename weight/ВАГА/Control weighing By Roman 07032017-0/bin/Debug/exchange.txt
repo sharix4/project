@@ -1,0 +1,44 @@
+
+
+*****************************************************
+DataTime:-->01.06.2017 14:54:04
+function:-->read()
+===error====
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Control_weighing_By_Roman_07032017_0.exchange.read() in c:\Users\roma\Desktop\ПРОГРАМА ДЛЯ ВАГИ\Нова версія\Control weighing By Roman 07032017-0\control.cs:line 280
+===error====
+*****************************************************
+
+
+
+
+*****************************************************
+DataTime:-->01.06.2017 17:13:01
+function:-->send()
+===error====
+System.IO.IOException: Unable to write data to the transport connection: Удаленный хост принудительно разорвал существующее подключение. ---> System.Net.Sockets.SocketException: Удаленный хост принудительно разорвал существующее подключение
+   at System.Net.Sockets.Socket.Send(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.NetworkStream.Write(Byte[] buffer, Int32 offset, Int32 size)
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.NetworkStream.Write(Byte[] buffer, Int32 offset, Int32 size)
+   at Control_weighing_By_Roman_07032017_0.exchange.send(values_for_the_base value) in c:\Users\roma\Desktop\ПРОГРАМА ДЛЯ ВАГИ\Нова версія\Control weighing By Roman 07032017-0\control.cs:line 357
+===error====
+*****************************************************
+
+
+
+
+*****************************************************
+DataTime:-->02.06.2017 8:54:28
+function:-->send()
+===error====
+System.IO.IOException: Unable to write data to the transport connection: Удаленный хост принудительно разорвал существующее подключение. ---> System.Net.Sockets.SocketException: Удаленный хост принудительно разорвал существующее подключение
+   at System.Net.Sockets.Socket.Send(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.NetworkStream.Write(Byte[] buffer, Int32 offset, Int32 size)
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.NetworkStream.Write(Byte[] buffer, Int32 offset, Int32 size)
+   at Control_weighing_By_Roman_07032017_0.exchange.send(values_for_the_base value) in c:\Users\roma\Desktop\ПРОГРАМА ДЛЯ ВАГИ\Нова версія\Control weighing By Roman 07032017-0\control.cs:line 356
+===error====
+*****************************************************
+
+
