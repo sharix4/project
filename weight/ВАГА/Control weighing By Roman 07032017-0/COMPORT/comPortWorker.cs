@@ -13,6 +13,7 @@ namespace Control_weighing_By_Roman_07032017_0
     class comPortWorker
     {
         static System.IO.Ports.SerialPort myPort = null;
+
         TextBox showWeight = null;
         Button taraControl = null;
 
@@ -175,6 +176,7 @@ namespace Control_weighing_By_Roman_07032017_0
         }
 
         delegate void UpdateWght(object obj,string data);
+
         private void update_weight(object obj, string data)
         {
      

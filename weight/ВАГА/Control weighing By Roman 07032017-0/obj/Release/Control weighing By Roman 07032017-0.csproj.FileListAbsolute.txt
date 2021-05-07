@@ -1,0 +1,66 @@
+C:\Users\roma\Documents\Visual Studio 2012\Projects\Control weighing By Roman 07032017-0\Control weighing By Roman 07032017-0\bin\Release\Control weighing By Roman 07032017-0.exe.config
+C:\Users\roma\Documents\Visual Studio 2012\Projects\Control weighing By Roman 07032017-0\Control weighing By Roman 07032017-0\bin\Release\Control weighing By Roman 07032017-0.exe
+C:\Users\roma\Documents\Visual Studio 2012\Projects\Control weighing By Roman 07032017-0\Control weighing By Roman 07032017-0\bin\Release\Control weighing By Roman 07032017-0.pdb
+C:\Users\roma\Documents\Visual Studio 2012\Projects\Control weighing By Roman 07032017-0\Control weighing By Roman 07032017-0\obj\Release\Control_weighing_By_Roman_07032017_0.Controler.resources
+C:\Users\roma\Documents\Visual Studio 2012\Projects\Control weighing By Roman 07032017-0\Control weighing By Roman 07032017-0\obj\Release\Control_weighing_By_Roman_07032017_0.Form1.resources
+C:\Users\roma\Documents\Visual Studio 2012\Projects\Control weighing By Roman 07032017-0\Control weighing By Roman 07032017-0\obj\Release\Control_weighing_By_Roman_07032017_0.Properties.Resources.resources
+C:\Users\roma\Documents\Visual Studio 2012\Projects\Control weighing By Roman 07032017-0\Control weighing By Roman 07032017-0\obj\Release\Control weighing By Roman 07032017-0.csproj.GenerateResource.Cache
+C:\Users\roma\Documents\Visual Studio 2012\Projects\Control weighing By Roman 07032017-0\Control weighing By Roman 07032017-0\obj\Release\Control weighing By Roman 07032017-0.exe
+C:\Users\roma\Documents\Visual Studio 2012\Projects\Control weighing By Roman 07032017-0\Control weighing By Roman 07032017-0\obj\Release\Control weighing By Roman 07032017-0.pdb
+C:\Users\roma\Documents\Visual Studio 2012\Projects\Control weighing By Roman 07032017-0\Control weighing By Roman 07032017-0\obj\Release\Control weighing By Roman 07032017-0.csprojResolveAssemblyReference.cache
+D:\progect\Control weighing By Roman 07032017-0\Control weighing By Roman 07032017-0\bin\Release\Control weighing By Roman 07032017-0.exe.config
+D:\progect\Control weighing By Roman 07032017-0\Control weighing By Roman 07032017-0\bin\Release\Control weighing By Roman 07032017-0.exe
+D:\progect\Control weighing By Roman 07032017-0\Control weighing By Roman 07032017-0\bin\Release\Control weighing By Roman 07032017-0.pdb
+D:\progect\Control weighing By Roman 07032017-0\Control weighing By Roman 07032017-0\obj\Release\Control_weighing_By_Roman_07032017_0.Controler.resources
+D:\progect\Control weighing By Roman 07032017-0\Control weighing By Roman 07032017-0\obj\Release\Control_weighing_By_Roman_07032017_0.Form1.resources
+D:\progect\Control weighing By Roman 07032017-0\Control weighing By Roman 07032017-0\obj\Release\Control_weighing_By_Roman_07032017_0.Properties.Resources.resources
+D:\progect\Control weighing By Roman 07032017-0\Control weighing By Roman 07032017-0\obj\Release\Control weighing By Roman 07032017-0.csproj.GenerateResource.Cache
+D:\progect\Control weighing By Roman 07032017-0\Control weighing By Roman 07032017-0\obj\Release\Control weighing By Roman 07032017-0.exe
+D:\progect\Control weighing By Roman 07032017-0\Control weighing By Roman 07032017-0\obj\Release\Control weighing By Roman 07032017-0.pdb
+C:\Users\roma\Desktop\ПРОГРАМА ДЛЯ ВАГИ\Control weighing By Roman 07032017-0\Control weighing By Roman 07032017-0\bin\Release\Control weighing By Roman 07032017-0.exe.config
+C:\Users\roma\Desktop\ПРОГРАМА ДЛЯ ВАГИ\Control weighing By Roman 07032017-0\Control weighing By Roman 07032017-0\obj\Release\Control weighing By Roman 07032017-0.exe
+C:\Users\roma\Desktop\ПРОГРАМА ДЛЯ ВАГИ\Control weighing By Roman 07032017-0\Control weighing By Roman 07032017-0\obj\Release\Control weighing By Roman 07032017-0.pdb
+C:\Users\roma\Desktop\ПРОГРАМА ДЛЯ ВАГИ\Control weighing By Roman 07032017-0\Control weighing By Roman 07032017-0\bin\Release\Control weighing By Roman 07032017-0.exe
+C:\Users\roma\Desktop\ПРОГРАМА ДЛЯ ВАГИ\Control weighing By Roman 07032017-0\Control weighing By Roman 07032017-0\bin\Release\Control weighing By Roman 07032017-0.pdb
+C:\Users\roma\Desktop\ПРОГРАМА ДЛЯ ВАГИ\Control weighing By Roman 07032017-0\Control weighing By Roman 07032017-0\obj\Release\Control weighing By Roman 07032017-0.csprojResolveAssemblyReference.cache
+C:\Users\roma\Desktop\ПРОГРАМА ДЛЯ ВАГИ\Control weighing By Roman 07032017-0\Control weighing By Roman 07032017-0\obj\Release\Control_weighing_By_Roman_07032017_0.Controler.resources
+C:\Users\roma\Desktop\ПРОГРАМА ДЛЯ ВАГИ\Control weighing By Roman 07032017-0\Control weighing By Roman 07032017-0\obj\Release\Control_weighing_By_Roman_07032017_0.Form1.resources
+C:\Users\roma\Desktop\ПРОГРАМА ДЛЯ ВАГИ\Control weighing By Roman 07032017-0\Control weighing By Roman 07032017-0\obj\Release\Control_weighing_By_Roman_07032017_0.Properties.Resources.resources
+C:\Users\roma\Desktop\ПРОГРАМА ДЛЯ ВАГИ\Control weighing By Roman 07032017-0\Control weighing By Roman 07032017-0\obj\Release\Control weighing By Roman 07032017-0.csproj.GenerateResource.Cache
+C:\Users\roma\Desktop\ПРОГРАМА ДЛЯ ВАГИ\Control weighing By Roman 07032017-0\Control weighing By Roman 07032017-0\bin\Release\serial2.dll
+C:\Users\roma\Desktop\ПРОГРАМА ДЛЯ ВАГИ\Control weighing By Roman 07032017-0\Control weighing By Roman 07032017-0\bin\Release\serial2.pdb
+C:\Users\roma\Desktop\ПРОГРАМА ДЛЯ ВАГИ\Нова версія\Control weighing By Roman 07032017-0\bin\Release\Control weighing By Roman 07032017-0.exe.config
+C:\Users\roma\Desktop\ПРОГРАМА ДЛЯ ВАГИ\Нова версія\Control weighing By Roman 07032017-0\bin\Release\Control weighing By Roman 07032017-0.exe
+C:\Users\roma\Desktop\ПРОГРАМА ДЛЯ ВАГИ\Нова версія\Control weighing By Roman 07032017-0\bin\Release\Control weighing By Roman 07032017-0.pdb
+C:\Users\roma\Desktop\ПРОГРАМА ДЛЯ ВАГИ\Нова версія\Control weighing By Roman 07032017-0\bin\Release\serial2.dll
+C:\Users\roma\Desktop\ПРОГРАМА ДЛЯ ВАГИ\Нова версія\Control weighing By Roman 07032017-0\bin\Release\serilizet.dll
+C:\Users\roma\Desktop\ПРОГРАМА ДЛЯ ВАГИ\Нова версія\Control weighing By Roman 07032017-0\bin\Release\serial2.pdb
+C:\Users\roma\Desktop\ПРОГРАМА ДЛЯ ВАГИ\Нова версія\Control weighing By Roman 07032017-0\obj\Release\Control_weighing_By_Roman_07032017_0.Controler.resources
+C:\Users\roma\Desktop\ПРОГРАМА ДЛЯ ВАГИ\Нова версія\Control weighing By Roman 07032017-0\obj\Release\Control_weighing_By_Roman_07032017_0.Form1.resources
+C:\Users\roma\Desktop\ПРОГРАМА ДЛЯ ВАГИ\Нова версія\Control weighing By Roman 07032017-0\obj\Release\Control_weighing_By_Roman_07032017_0.Properties.Resources.resources
+C:\Users\roma\Desktop\ПРОГРАМА ДЛЯ ВАГИ\Нова версія\Control weighing By Roman 07032017-0\obj\Release\Control weighing By Roman 07032017-0.csproj.GenerateResource.Cache
+C:\Users\roma\Desktop\ПРОГРАМА ДЛЯ ВАГИ\Нова версія\Control weighing By Roman 07032017-0\obj\Release\Control weighing By Roman 07032017-0.exe
+C:\Users\roma\Desktop\ПРОГРАМА ДЛЯ ВАГИ\Нова версія\Control weighing By Roman 07032017-0\obj\Release\Control weighing By Roman 07032017-0.pdb
+C:\Users\roma\Desktop\ПРОГРАМА ДЛЯ ВАГИ\Нова версія\Control weighing By Roman 07032017-0\obj\Release\Control weighing By Roman 07032017-0.csprojResolveAssemblyReference.cache
+C:\Users\Secretary\Desktop\вага треба тестувати\Нова версія\Control weighing By Roman 07032017-0\bin\Release\Control weighing By Roman 07032017-0.exe.config
+C:\Users\Secretary\Desktop\вага треба тестувати\Нова версія\Control weighing By Roman 07032017-0\obj\Release\Control weighing By Roman 07032017-0.exe
+C:\Users\Secretary\Desktop\вага треба тестувати\Нова версія\Control weighing By Roman 07032017-0\obj\Release\Control weighing By Roman 07032017-0.pdb
+C:\Users\Secretary\Desktop\ВАГА\Control weighing By Roman 07032017-0\obj\Release\Control_weighing_By_Roman_07032017_0.Controler.resources
+C:\Users\Secretary\Desktop\ВАГА\Control weighing By Roman 07032017-0\obj\Release\Control_weighing_By_Roman_07032017_0.Form1.resources
+C:\Users\Secretary\Desktop\ВАГА\Control weighing By Roman 07032017-0\obj\Release\Control_weighing_By_Roman_07032017_0.Properties.Resources.resources
+C:\Users\Secretary\Desktop\ВАГА\Control weighing By Roman 07032017-0\obj\Release\Control weighing By Roman 07032017-0.csproj.GenerateResource.Cache
+C:\Users\Secretary\Desktop\ВАГА\Control weighing By Roman 07032017-0\bin\Release\Control weighing By Roman 07032017-0.exe.config
+C:\Users\Secretary\Desktop\ВАГА\Control weighing By Roman 07032017-0\bin\Release\Control weighing By Roman 07032017-0.exe
+C:\Users\Secretary\Desktop\ВАГА\Control weighing By Roman 07032017-0\bin\Release\Control weighing By Roman 07032017-0.pdb
+C:\Users\Secretary\Desktop\ВАГА\Control weighing By Roman 07032017-0\obj\Release\Control weighing By Roman 07032017-0.exe
+C:\Users\Secretary\Desktop\ВАГА\Control weighing By Roman 07032017-0\obj\Release\Control weighing By Roman 07032017-0.pdb
+C:\Users\Secretary\Desktop\weight\ВАГА\Control weighing By Roman 07032017-0\bin\Release\Control weighing By Roman 07032017-0.exe.config
+C:\Users\Secretary\Desktop\weight\ВАГА\Control weighing By Roman 07032017-0\obj\Release\Control weighing By Roman 07032017-0.exe
+C:\Users\Secretary\Desktop\weight\ВАГА\Control weighing By Roman 07032017-0\obj\Release\Control weighing By Roman 07032017-0.pdb
+C:\Users\Secretary\Desktop\weight\ВАГА\Control weighing By Roman 07032017-0\bin\Release\Control weighing By Roman 07032017-0.exe
+C:\Users\Secretary\Desktop\weight\ВАГА\Control weighing By Roman 07032017-0\bin\Release\Control weighing By Roman 07032017-0.pdb
+C:\Users\Secretary\Desktop\weight\ВАГА\Control weighing By Roman 07032017-0\obj\Release\Control weighing By Roman 07032017-0.csprojResolveAssemblyReference.cache
+C:\Users\Secretary\Desktop\weight\ВАГА\Control weighing By Roman 07032017-0\obj\Release\Control_weighing_By_Roman_07032017_0.Controler.resources
+C:\Users\Secretary\Desktop\weight\ВАГА\Control weighing By Roman 07032017-0\obj\Release\Control_weighing_By_Roman_07032017_0.Form1.resources
+C:\Users\Secretary\Desktop\weight\ВАГА\Control weighing By Roman 07032017-0\obj\Release\Control_weighing_By_Roman_07032017_0.Properties.Resources.resources
+C:\Users\Secretary\Desktop\weight\ВАГА\Control weighing By Roman 07032017-0\obj\Release\Control weighing By Roman 07032017-0.csproj.GenerateResource.Cache

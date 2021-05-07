@@ -39,8 +39,6 @@ namespace Control_weighing_By_Roman_07032017_0
             return data_search;
         }
 
-
-
         public DataTable number()
         {
             DataTable data_search = new DataTable();
